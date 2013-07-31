@@ -11,3 +11,8 @@ public class HelloWorld {
 		System.out.println("网站上的");
 	}
 }
+
+class A{
+	
+	
+}

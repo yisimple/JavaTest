@@ -9,11 +9,3 @@ public class HelloWorld {
 
 }
 
-class A{
-	
-	
-}
-
-class B{
-	
-}
